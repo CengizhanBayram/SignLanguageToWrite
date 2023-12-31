@@ -14,3 +14,4 @@ The application will use your camera to recognise sign language. The camera wind
 # Observe Sign Language Translation:
 Follow the sign language in the image taken by the camera and observe the translation results of the application.
 This christimas is my begining of this project
+![image](https://github.com/CengizhanBayram/SignLanguageToWrite/assets/110194474/2438c6b8-b19f-493d-8ee6-33b25680d0c6)
