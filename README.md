@@ -1,6 +1,6 @@
 # SignLanguageToWrite
 ## Project Description
-This project includes an application that aims to detect the sign language of sign language users and translate this sign language into text. It was developed using libraries such as OpenCV and TensorFlow.
+This project includes an application that aims to detect the sign language of sign language users and translate this sign language into text. It was developed using libraries such as OpenCV and pytorch.
 Her zaman içimde kalan projeme dönüp bakmak istedim 
 # Requirements
 The following requirements are needed to run the project:
